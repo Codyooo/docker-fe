@@ -3,7 +3,7 @@
 * @author: hufan
 * @Date: 2020-02-07 17:11:13
 * @LastEditors: hufan
-* @LastEditTime: 2020-02-07 17:55:09
+* @LastEditTime: 2020-02-08 15:17:36
  */
 import React, { Component } from 'react';
 import logo from './logo.svg';
@@ -20,6 +20,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           running in docker now!!
+          auto build and deploy
         </p>
         <div>
           hey
